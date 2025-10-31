@@ -65,7 +65,4 @@ Open 👉 reports/Uber-Supply-Demand-Gap-Dashboard.pdf for the final dashboard a
 
 MIT License – Free to use, modify, and share.
 
-❤️ Credits
 
-Made with dedication by Yashvi Verma
- 💻✨
